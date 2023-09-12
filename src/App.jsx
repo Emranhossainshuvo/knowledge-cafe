@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import Blog from './components/Blog/Blog'
 import Blogs from './components/Blogs/Blogs'
-import Bookmarks from './components/Bookmark/Bookmarks'
+import Bookmarks from './components/Bookmarks/Bookmarks'
 import Header from './components/Header/Header'
 
 function App() {
