@@ -26,7 +26,6 @@ function App() {
       <Header></Header>
       <div className='md:flex max-w-7xl mx-auto'>
         <Blogs handleMarkAsRead={handleMarkAsRead} handleAddToBookmark={handleAddToBookmark}></Blogs>
-        <Blog></Blog>
         <Bookmarks
          bookmarks={bookmarks}
          readingTime={readingTime}

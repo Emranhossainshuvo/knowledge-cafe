@@ -3,7 +3,7 @@ import Bookmark from '../Bookmark/Bookmark';
 
 const Bookmarks = ({ bookmarks, readingTime }) => {
     return (
-        <div className="md:w-1/3 text-center bg-gray-200 rounded-xl p-4">
+        <div className="md:w-1/3 text-center ms-5 bg-gray-200 rounded-xl p-4">
             <div className='mb-4'>
                 <h3 className="text-4xl">Reading Time {readingTime} min</h3>
             </div>
