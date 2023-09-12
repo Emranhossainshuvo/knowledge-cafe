@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@500;600;700&display=swap');  
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 /* google font exo 2 500, 600, and 700 */
-@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@500;600;700&display=swap');  
 
 body{
     font-family: 'Exo 2', sans-serif;
